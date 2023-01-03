@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blocks",
+    "\\blocks\\cover",
+    "\\blocks\\cover\\__link",
+    "\\blocks\\footer",
+    "\\blocks\\footer\\__copyright",
+    "\\blocks\\footer\\__link",
+    "\\blocks\\footer\\__row-links",
+    "\\blocks\\header",
+    "\\blocks\\header\\__lang-link",
+    "\\blocks\\header\\__lang-link\\_En",
+    "\\blocks\\header\\__lang-link\\_Ru",
+    "\\blocks\\place",
+    "\\blocks\\places"
+  ],
+  "SelectedNode": "\\blocks\\place\\__title\\place__title.css",
+  "PreviewInSolutionExplorer": false
+}

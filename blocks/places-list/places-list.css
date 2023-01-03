@@ -1,0 +1,27 @@
+.places-list {
+    max-width: 984px;
+    min-height: 3392px;
+    padding-left: 0;
+    margin: 0 auto;
+}
+
+@media screen and (max-width:1279px) {
+    .places-list {
+        max-width: 928px;
+        min-height: 3292px;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .places-list {
+        max-width: 720px;
+        min-height: 2808px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .places-list {
+        max-width: 320px;
+        min-height: 5177px;
+    }
+}

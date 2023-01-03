@@ -1,0 +1,16 @@
+.footer__row-links {
+    max-width: 1184px;
+    min-height: 18px;
+}
+
+@media screen and (max-width: 767px) {
+    .footer__row-links {
+        max-width: 158px;
+        min-height: 248px;
+        display: grid;
+        grid-template-columns: minmax(74px, max-content);
+        grid-template-rows: repeat(5, 24px);
+        grid-row-gap: 24px;
+        grid-auto-flow: column;
+    }
+}
