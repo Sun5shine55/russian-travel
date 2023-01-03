@@ -11,10 +11,7 @@ justify-content:space-between;
     .footer {
         max-width: 928px;
         min-height: 18px;
-<<<<<<< HEAD
     }
-=======
->>>>>>> 7bfa9539468fdffd062cfa0f38c6720df834290c
 }
 
 @media screen and (max-width:1023px) {
