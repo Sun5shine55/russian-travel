@@ -1,0 +1,22 @@
+.header__lang-link_En {
+    max-width: 29px;
+    min-height: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-link_En {
+        max-width: 22px;
+        min-height: 20px;
+        font-size: 18px;
+        line-height: 20px;
+        position: relative;
+    }
+}

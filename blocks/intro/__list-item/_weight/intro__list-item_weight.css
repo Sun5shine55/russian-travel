@@ -1,0 +1,10 @@
+.intro__list-item_weight {
+    margin: 0 0 0 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    /* or 150% */
+    color: #FFFFFF;
+}
