@@ -1,4 +1,4 @@
-.header__lang-link_Ru {
+.header__lang-link_ru {
     max-width: 30px;
     min-height: 28px;
     font-family: 'Inter';
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .header__lang-link_Ru {
+    .header__lang-link_ru {
         max-width: 22px;
         min-height: 20px;
         font-size: 18px;
