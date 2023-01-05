@@ -1,8 +1,9 @@
 .header__lang-link {
-    max-width: 77px;
-    min-height: 52px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 18px;
     align-items: end;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
 }

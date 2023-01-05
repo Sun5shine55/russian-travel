@@ -1,7 +1,6 @@
 .lead__subtitle {
     max-width: 640px;
-    min-height: 72px;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -15,7 +14,6 @@
     .lead__subtitle {
         margin: 16px auto 0 auto;
         max-width: 288px;
-        min-height: 40px;
         font-size: 16px;
         line-height: 20px;
         position: relative;

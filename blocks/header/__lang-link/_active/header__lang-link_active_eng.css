@@ -1,7 +1,7 @@
-.header__lang-link_en {
+.header__lang-link_active_eng {
     max-width: 29px;
     min-height: 28px;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -11,8 +11,13 @@
     text-decoration: none;
 }
 
+    .header__lang-link_active_eng:hover {
+        opacity: 0.7;
+    }
+
+
 @media screen and (max-width: 767px) {
-    .header__lang-link_en {
+    .header__lang-link_active_eng {
         max-width: 22px;
         min-height: 20px;
         font-size: 18px;

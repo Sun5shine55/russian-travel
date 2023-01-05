@@ -1,16 +1,17 @@
-.footer__row-links {
-    max-width: 1184px;
-    min-height: 18px;
+.footer__list-links {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
 }
 
 @media screen and (max-width: 767px) {
-    .footer__row-links {
-        max-width: 158px;
-        min-height: 248px;
+    .footer__list-links {
         display: grid;
         grid-template-columns: minmax(74px, max-content);
         grid-template-rows: repeat(5, 24px);
-        grid-row-gap: 24px;
+        grid-row-gap: 32px;
         grid-auto-flow: column;
     }
 }
