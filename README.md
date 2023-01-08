@@ -14,4 +14,4 @@
 
 **Ссылка на проект в GitHub**
 
-https://github.com/Sun5shine55/russian-travel/tree/5ba0e9efb2889a89372af46f6a7fa2087de79cbc
+https://github.com/Sun5shine55/russian-travel/tree/c54970e22bf042d53ace50ee7ec14ced9f8b13e3
