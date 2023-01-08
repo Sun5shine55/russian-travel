@@ -1,9 +1,25 @@
 .header__lang-link {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    align-content: center;
+    grid-template-columns: minmax(30px, max-content);
     grid-gap: 18px;
-    align-items: end;
+    grid-auto-flow: column;
     margin-top: 0;
     margin-bottom: 0;
     padding-left: 0;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-link {
+        grid-template-columns: minmax(22px, max-content);
+        font-size: 18px;
+        line-height: 20px;
+    }
 }

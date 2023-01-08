@@ -1,3 +1,7 @@
 .header__list-item {
     list-style-type: none;
 }
+
+.header__list-item:hover {
+    opacity: 0.7;
+}

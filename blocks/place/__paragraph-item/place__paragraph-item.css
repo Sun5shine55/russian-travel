@@ -1,13 +1,8 @@
 .place__paragraph-item {
     margin-top: 0;
-}
-
-.place__paragraph-item:nth-child(1) {
     margin-bottom: 26px;
 }
 
-@media screen and (max-width: 767px) {
-    .place__paragraph-item:nth-child(2) {
-        margin-bottom: 0;
-    }
+.place__paragraph-item:last-child {
+    margin-bottom: 0;
 }

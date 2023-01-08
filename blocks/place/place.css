@@ -10,7 +10,7 @@
     margin: 0 0 80px 0;
 }
 
-.place:nth-child(5) {
+.place:last-child {
     margin: 0;
 }
 

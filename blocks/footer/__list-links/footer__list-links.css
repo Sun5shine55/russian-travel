@@ -9,9 +9,9 @@
 @media screen and (max-width: 767px) {
     .footer__list-links {
         display: grid;
-        grid-template-columns: minmax(74px, max-content);
-        grid-template-rows: repeat(5, 24px);
+        grid-template-columns: minmax(min-content, max-content);
+        grid-template-rows: repeat(auto-fill, minmax(24px, max-content));
         grid-row-gap: 32px;
-        grid-auto-flow: column;
+        grid-auto-flow: row;
     }
 }
